@@ -64,7 +64,7 @@ if __name__ == "__main__":
             print("Match over 🎉")
             break
 
-        if all([xstate[i] or zstate[i] for i in range(9)]):
+        if all(xstate[i] or zstate[i] for i in range(9)):
             printBoard(xstate, zstate)
             print("It's a draw")
             break
