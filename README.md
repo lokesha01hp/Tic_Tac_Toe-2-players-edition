@@ -38,8 +38,8 @@ A simple, fun, and beginner-friendly **Tic Tac Toe** game built using **Python**
 ### 1. Clone this repo:
 
 ```bash
-git clone https://github.com/lokesha01hp/tic-tac-toe-python.git
-cd tic-tac-toe-python
+git clone https://github.com/lokesha01hp/Tic_Tac_Toe-2-players-edition
+cd Tic_Tac_Toe-2-players-edition
 ```
 
 ### 2. Run the script:
