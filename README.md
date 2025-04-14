@@ -45,5 +45,5 @@ cd tic-tac-toe-python
 ### 2. Run the script:
 
 ```bash
-python tic_tac_toe.py
+python main.py
 ```
