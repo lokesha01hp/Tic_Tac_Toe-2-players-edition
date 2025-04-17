@@ -61,7 +61,7 @@ if __name__ == "__main__":
         cwins = check_win(xstate, zstate)
         if cwins != -1:
             printBoard(xstate, zstate)
-            print("Match over 🎉")
+            print("Match over")
             break
 
         if all(xstate[i] or zstate[i] for i in range(9)):
